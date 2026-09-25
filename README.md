@@ -1,17 +1,37 @@
-# electiva_2026_2
+# Taller 1 - Flutter
 
-A new Flutter project.
+## Estudiante
 
-## Getting Started
+Nombre: Jaime Esteban Jurado Arce
+Código: 230232032
 
-This project is a starting point for a Flutter application.
+## Descripción
 
-A few resources to get you started if this is your first Flutter project:
+Aplicación desarrollada para el Taller 1 de la asignatura
+Electiva Profesional I - Dispositivos Móviles.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+El taller demuestra el uso de StatefulWidget, setState(),
+imágenes, botones, SnackBar y diferentes widgets de Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologías
+
+- Flutter
+- Dart
+- Git
+- GitHub
+
+## Ejecución
+
+1. Clonar el repositorio.
+2. Abrir una terminal en la carpeta del proyecto.
+3. Ejecutar:
+
+flutter pub get
+
+4. Ejecutar:
+
+flutter run
+
+## Rama
+
+feature/taller1
