@@ -54,7 +54,7 @@ lib/
 
 ```bash
 flutter pub get
-flutter run -d windows
+flutter run -d [nombre del emulador]
 ```
 
 > Nota: en Flutter Web `Isolate.spawn` no ofrece paralelismo real; usar escritorio o Android.
